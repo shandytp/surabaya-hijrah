@@ -1,0 +1,48 @@
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap");
+
+header .main-nav {
+  /* coba gawe initial */
+  position: initial;
+  top: 0;
+  left: 20;
+  width: 100%;
+  z-index: 1240;
+}
+header .main-nav-scrolled {
+  background-color: yellow;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: yellow;
+}
+.navbar-light .navbar-nav .active .nav-link {
+  color: cyan;
+}
+
+/*for test*/
+.bg-dark {
+  background-color: rgb(20, 20, 20) !important;
+}
+
+body {
+  font-family: "Red Hat Display";
+  background: black;
+  margin: 0;
+}
+
+.glider-contain {
+  width: 85%;
+}
+
+.glider-next {
+  right: 30px;
+  top: 50%;
+}
+
+.glider-prev {
+  left: 30px;
+  top: 50%;
+}
+
+.footer-copyright {
+  color: yellow;
+}
