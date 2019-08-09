@@ -1,8 +1,5 @@
 <!-- Tim IT Surabaya Hijrah 
-- Wisnu Aria Y (Project Leader & Front End Developer)
-- Moch Shandy Tsalasa Putra (Front End Developer)
-- Aryo Budilaksono (Back End Developer)
-- Kelvin Adji Pangestu (Back End Developer)
+Project Leader = Wisnu kontol
 -->
 
 <!DOCTYPE html>
@@ -35,7 +32,6 @@
 </head>
 <body>
 
-<!-- Navbar -->
 <header>
        <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light py-3 main-nav">
           <div class="container">
@@ -105,17 +101,19 @@
     </div>
 
     <script src="glider.min.js"></script>
-<!-- Javascript Glider -->
+
     <script>
 
         new Glider(document.querySelector('.glider'), {
             slidesToShow: 1,
+            slidesToScroll: 'auto',
+            duration: 0.25,
             dots: '#dots',
             draggable: false,
             rewind: true,
             arrows: {
                 prev: '.glider-prev',
-                next: '.glider-next'
+                next: '.glider-next',
             }
         });
 
@@ -127,7 +125,7 @@
 <hr />
 <br>
 
-<!-- Footer -->
+
 <footer>
     <div class="container">
         <div class="row">

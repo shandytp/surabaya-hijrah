@@ -35,7 +35,6 @@
 </head>
 <body>
 
-<!-- Navbar -->
 <header>
        <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light py-3 main-nav">
           <div class="container">
@@ -105,7 +104,7 @@
     </div>
 
     <script src="glider.min.js"></script>
-<!-- Javascript Glider -->
+
     <script>
 
         new Glider(document.querySelector('.glider'), {
@@ -127,7 +126,7 @@
 <hr />
 <br>
 
-<!-- Footer -->
+
 <footer>
     <div class="container">
         <div class="row">
