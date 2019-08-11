@@ -1,0 +1,74 @@
+/* Kahf Logo Color : rgb(255, 204, 41) */
+
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap");
+
+header .main-nav {
+  /* coba gawe initial */
+  position: initial;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1240;
+  font-size: 16px;
+}
+/* Body */
+body {
+  font-family: "Red Hat Display";
+  background: black;
+  margin: 0;
+}
+
+/*
+header .main-nav-scrolled {
+  background-color: yellow;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: yellow;
+}
+.navbar-light .navbar-nav .active .nav-link {
+  color: cyan;
+}
+*/
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+  color: rgb(255, 204, 41);
+}
+
+/* Hamburger Menu when Responsive */
+.navbar-toggler {
+  background-color: rgb(255, 204, 41);
+}
+
+/*for test*/
+.bg-dark {
+  background-color: rgb(20, 20, 20) !important;
+}
+
+.glider-contain {
+  width: 100%;
+}
+
+.glider-next {
+  right: 30px;
+  top: 50%;
+}
+
+.glider-prev {
+  left: 30px;
+  top: 50%;
+}
+
+.footer-copyright {
+  color: yellow;
+}
+
+.row {
+  padding-bottom: 10px;
+}
+
+.fa .fa-map-marker {
+  color: white;
+}

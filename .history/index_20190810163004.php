@@ -104,7 +104,7 @@
         <div id="dots" class="glider-dots"></div>
     </div>
 
-    <script src="js/glider.min.js"></script>
+    <script src="glider.min.js"></script>
     
     <!-- Javascript Glider -->
     <script>

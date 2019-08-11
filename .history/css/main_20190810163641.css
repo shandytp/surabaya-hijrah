@@ -10,7 +10,6 @@ header .main-nav {
   width: 100%;
   z-index: 1240;
   font-size: 16px;
-  text-transform: uppercase;
 }
 /* Body */
 body {
@@ -50,7 +49,6 @@ header .main-nav-scrolled {
   background-color: rgb(20, 20, 20) !important;
 }
 
-/* Navbar Hover versi 2 */
 .link-3 {
   transition: 0.4s;
   color: #ffffff;
@@ -61,7 +59,7 @@ header .main-nav-scrolled {
 }
 .link-3:hover {
   background-color: rgb(255, 204, 41);
-  color: white;
+  color: blue;
   padding: 24px 10px;
 }
 

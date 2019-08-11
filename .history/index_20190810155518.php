@@ -47,22 +47,22 @@
               <div class="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                   <li class="nav-item active">
-                    <a class="nav-link link-3" href="index.php">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link linkhover link-3" href="#story">About Us</a>
-                  </li>
-                  <li class="nav-item ">
-                    <a class="nav-link link-3" href="#expertise">Our Program</a>
+                    <a class="nav-link linkhover" href="#story">About Us</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#team">Gallery</a>
+                    <a class="nav-link" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#works">Event</a>
+                    <a class="nav-link" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#people-say">Blog</a>
+                    <a class="nav-link" href="#works">Event</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -104,7 +104,7 @@
         <div id="dots" class="glider-dots"></div>
     </div>
 
-    <script src="js/glider.min.js"></script>
+    <script src="glider.min.js"></script>
     
     <!-- Javascript Glider -->
     <script>
@@ -127,14 +127,14 @@
 <section class="our-webcoderskull padding-lg">
   <div class="container">
     <div class="row heading heading-icon">
-        <h2>Our Program</h2>
+        <h2>KKKKTONTOLLLLL</h2>
     </div>
     <ul class="row">
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 349px;">
             <figure><img src="1.jpg" class="img-responsive" alt=""></figure>
-            <h3><a href="http://www.webcoderskull.com/">Kajian</a></h3>
-            <p>Program ini adalah bla</p>
+            <h3><a href="http://www.webcoderskull.com/">SIKONTOL</a></h3>
+            <p>Freelance Web Developer</p>
             <ul class="follow-us clearfix">
               <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
               <li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
@@ -145,7 +145,7 @@
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 349px;">
             <figure><img src="1.jpg" class="img-responsive" alt=""></figure>
-            <h3><a href="#">Food Box</a></h3>
+            <h3><a href="#">SIJEMBOT </a></h3>
             <p>Freelance Web Developer</p>
             <ul class="follow-us clearfix">
               <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -157,7 +157,7 @@
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 349px;">
             <figure><img src="2.jpg" class="img-responsive" alt=""></figure>
-            <h3><a href="http://www.webcoderskull.com/">Ruang Harapan</a></h3>
+            <h3><a href="http://www.webcoderskull.com/">SITEMPEK </a></h3>
             <p>Freelance Web Developer</p>
             <ul class="follow-us clearfix">
               <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
@@ -169,7 +169,7 @@
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 349px;">
             <figure><img src="2.jpg" class="img-responsive" alt=""></figure>
-            <h3><a href="http://www.webcoderskull.com/">Mbois</a></h3>
+            <h3><a href="http://www.webcoderskull.com/">SIJANCOK </a></h3>
             <p>Freelance Web Developer</p>
             <ul class="follow-us clearfix">
               <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>

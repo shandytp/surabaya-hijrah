@@ -10,7 +10,6 @@ header .main-nav {
   width: 100%;
   z-index: 1240;
   font-size: 16px;
-  text-transform: uppercase;
 }
 /* Body */
 body {
@@ -33,12 +32,10 @@ header .main-nav-scrolled {
 .navbar-nav .nav-item .nav-link {
   color: white;
 }
-/* Navbar versi lama */
-
-/* .navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item.active .nav-link,
 .navbar-nav .nav-item:hover .nav-link {
   color: rgb(255, 204, 41);
-} */
+}
 
 /* Hamburger Menu when Responsive */
 .navbar-toggler {
@@ -48,21 +45,6 @@ header .main-nav-scrolled {
 /*Navbar Background Color*/
 .bg-dark {
   background-color: rgb(20, 20, 20) !important;
-}
-
-/* Navbar Hover versi 2 */
-.link-3 {
-  transition: 0.4s;
-  color: #ffffff;
-  font-size: 20px;
-  text-decoration: none;
-  padding: 0 10px;
-  margin: 0 10px;
-}
-.link-3:hover {
-  background-color: rgb(255, 204, 41);
-  color: white;
-  padding: 24px 10px;
 }
 
 /* Wrapper Glider */
@@ -189,8 +171,6 @@ ul {
 .our-webcoderskull .cnt-block h3 a:hover {
   color: gold;
 }
-
-/* Desc Box */
 .our-webcoderskull .cnt-block p {
   color: gold;
   font-size: 13px;
@@ -210,8 +190,6 @@ ul {
   font-size: 24px;
   color: red;
 }
-
-/* Warna Hover dari Medsos dkk */
 .our-webcoderskull .cnt-block .follow-us li .fa:hover {
   color: gold;
 }

@@ -47,22 +47,22 @@
               <div class="collapse navbar-collapse " id="navbarSupportedContent">
                 <ul class="navbar-nav ml-auto">
                   <li class="nav-item active">
-                    <a class="nav-link link-3" href="index.php">Home <span class="sr-only">(current)</span></a>
+                    <a class="nav-link" href="index.php">Home <span class="sr-only">(current)</span></a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link linkhover link-3" href="#story">About Us</a>
-                  </li>
-                  <li class="nav-item ">
-                    <a class="nav-link link-3" href="#expertise">Our Program</a>
+                    <a class="nav-link linkhover" href="#story">About Us</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#team">Gallery</a>
+                    <a class="nav-link" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#works">Event</a>
+                    <a class="nav-link" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="#people-say">Blog</a>
+                    <a class="nav-link" href="#works">Event</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -104,7 +104,7 @@
         <div id="dots" class="glider-dots"></div>
     </div>
 
-    <script src="js/glider.min.js"></script>
+    <script src="glider.min.js"></script>
     
     <!-- Javascript Glider -->
     <script>
