@@ -209,7 +209,8 @@
                             target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
                     </div>
                 </div>
-            </div>              
+            </div>
+
     </footer>
 </body>
 </html>

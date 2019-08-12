@@ -200,16 +200,18 @@
                   <!-- Find Us Location -->
                     <div class="col-md-6 col-xs-12">
                         <h2 class="footer">Find Us</h2>
-                            <div class="embed-responsive embed-responsive-4by3">
-                                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6525253721115!2d112.71829691354493!3d-7.2803191735654424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fba2c2498407%3A0xcd27f60f463c0dfd!2sRuang+Harapan-Kahf+Surabaya+Hijrah!5e0!3m2!1sid!2sid!4v1565593698302!5m2!1sid!2sid" width="425" height="350" frameborder="0" style="border:0" allowfullscreen>
-                                </iframe>
-                            </div>
+                        <div class="embed-responsive embed-responsive-4by3">
+                        <iframe class="embed-responsive-item" width="425" height="350" frameborder="0" scrolling="no" marginheight="0"
+                            marginwidth="0"
+                            src="https://www.openstreetmap.org/export/embed.html?bbox=112.72783863583754%2C-7.288856199111957%2C112.73285973111342%2C-7.285099508715627&amp;layer=mapnik&amp;marker=-7.286977857850873%2C112.73034918347548"
+                            style="border: 1px solid black"></iframe></div><br />
                             
-                        <a href="https://g.page/surabayahijrah?share"
-                            target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
+                        <a href="https://www.google.com/maps/place/Lapangan+Thor/@-7.287947,112.7279502,17z"
+                            target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> markicob</a>
                     </div>
                 </div>
-            </div>              
+            </div>
+
     </footer>
 </body>
 </html>

@@ -205,11 +205,12 @@
                                 </iframe>
                             </div>
                             
-                        <a href="https://g.page/surabayahijrah?share"
-                            target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
+                        <a href="https://www.google.com/maps/place/Lapangan+Thor/@-7.287947,112.7279502,17z"
+                            target="_blank"><i class="fa fa-map-marker fa-1x" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
                     </div>
                 </div>
-            </div>              
+            </div>
+
     </footer>
 </body>
 </html>
