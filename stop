@@ -1,0 +1,155 @@
+[1mdiff --git a/.history/about_20190812150203.php b/.history/about_20190812150203.php[m
+[1mdeleted file mode 100644[m
+[1mindex e69de29..0000000[m
+[1mdiff --git a/.history/about_20190812150300.php b/.history/about_20190812150300.php[m
+[1mdeleted file mode 100644[m
+[1mindex 1ac00eb..0000000[m
+[1m--- a/.history/about_20190812150300.php[m
+[1m+++ /dev/null[m
+[36m@@ -1,29 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="author" content="Wisnu Aria Y,Moch Shandy Tsalasa Putra">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="ie=edge">[m
+[31m-    <!-- Icon -->[m
+[31m-    [m
+[31m-    <link rel="shortcut icon" href="pictures/kahf.png" type="image/x-icon">[m
+[31m-    <link rel="icon" href="pictures/favicon.ico" type="image/x-icon">[m
+[31m-[m
+[31m-    <!-- Source CDN (Content Delivery Network) -->[m
+[31m-[m
+[31m-    <!-- Navbar Bootstrap -->[m
+[31m-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">[m
+[31m-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>[m
+[31m-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>[m
+[31m-[m
+[31m-    <!-- Main CSS -->[m
+[31m-    <link rel="stylesheet" href="css/main.css">[m
+[31m-[m
+[31m-    <!-- Title -->[m
+[31m-    <title>About Us</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/.history/about_20190812150314.php b/.history/about_20190812150314.php[m
+[1mdeleted file mode 100644[m
+[1mindex eec8128..0000000[m
+[1m--- a/.history/about_20190812150314.php[m
+[1m+++ /dev/null[m
+[36m@@ -1,71 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="author" content="Wisnu Aria Y,Moch Shandy Tsalasa Putra">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="ie=edge">[m
+[31m-    <!-- Icon -->[m
+[31m-    [m
+[31m-    <link rel="shortcut icon" href="pictures/kahf.png" type="image/x-icon">[m
+[31m-    <link rel="icon" href="pictures/favicon.ico" type="image/x-icon">[m
+[31m-[m
+[31m-    <!-- Source CDN (Content Delivery Network) -->[m
+[31m-[m
+[31m-    <!-- Navbar Bootstrap -->[m
+[31m-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">[m
+[31m-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>[m
+[31m-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>[m
+[31m-[m
+[31m-    <!-- Main CSS -->[m
+[31m-    <link rel="stylesheet" href="css/main.css">[m
+[31m-[m
+[31m-    <!-- Title -->[m
+[31m-    <title>About Us</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <!-- Navbar -->[m
+[31m-<header>[m
+[31m-       <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light py-3 main-nav">[m
+[31m-          <div class="container">[m
+[31m-            <a class="navbar-brand " href="index.php"><img src="pictures/kahflogo.png" width="105" height="52.5" alt="Kahf Logo"></a>[m
+[31m-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">[m
+[31m-                <span class="navbar-toggler-icon"></span>[m
+[31m-              </button>[m
+[31m-[m
+[31m-              <div class="collapse navbar-collapse " id="navbarSupportedContent">[m
+[31m-                <ul class="navbar-nav ml-auto">[m
+[31m-                <!-- Active itu buat halaman yang sedang dikunjungi -->[m
+[31m-                  <li class="nav-item active">[m
+[31m-                    <a class="nav-link link-3" href="index.php">Home <span class="sr-only">(current)</span></a>[m
+[31m-                  </li>[m
+[31m-                  <li class="nav-item">[m
+[31m-                    <a class="nav-link  link-3" href="#story">About Us</a>[m
+[31m-                  </li>[m
+[31m-                  <li class="nav-item ">[m
+[31m-                    <a class="nav-link link-3" href="#expertise">Our Program</a>[m
+[31m-                  </li>[m
+[31m-                  <li class="nav-item">[m
+[31m-                    <a class="nav-link link-3" href="#team">Gallery</a>[m
+[31m-                  </li>[m
+[31m-                  <li class="nav-item">[m
+[31m-                    <a class="nav-link link-3" href="#works">Event</a>[m
+[31m-                  </li>[m
+[31m-                  <li class="nav-item">[m
+[31m-                    <a class="nav-link link-3" href="#people-say">Blog</a>[m
+[31m-                  </li>[m
+[31m-                </ul>[m
+[31m-              </div>[m
+[31m-          </div>[m
+[31m-        </nav>[m
+[31m-    </header>[m
+[31m-[m
+[31m-    <!-- Optional JavaScript -->[m
+[31m-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->[m
+[31m-    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>[m
+[31m-    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>[m
+[31m-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>[m
+[31m-    [m
+[31m-    <script src="js/navbar.js"></script>  [m
+[31m-</body>[m
+[31m-</html>[m
+\ No newline at end of file[m
+[1mdiff --git a/.history/about_20190812150323.php b/.history/about_20190812150323.php[m
+[1mdeleted file mode 100644[m
+[1mindex f299a5d..0000000[m
+[1m--- a/.history/about_20190812150323.php[m
+[1m+++ /dev/null[m
+[36m@@ -1,71 +0,0 @@[m
+[31m-<!DOCTYPE html>[m
+[31m-<html lang="en">[m
+[31m-<head>[m
+[31m-    <meta charset="UTF-8">[m
+[31m-    <meta name="author" content="Wisnu Aria Y,Moch Shandy Tsalasa Putra">[m
+[31m-    <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[31m-    <meta http-equiv="X-UA-Compatible" content="ie=edge">[m
+[31m-    <!-- Icon -->[m
+[31m-    [m
+[31m-    <link rel="shortcut icon" href="pictures/kahf.png" type="image/x-icon">[m
+[31m-    <link rel="icon" href="pictures/favicon.ico" type="image/x-icon">[m
+[31m-[m
+[31m-    <!-- Source CDN (Content Delivery Network) -->[m
+[31m-[m
+[31m-    <!-- Navbar Bootstrap -->[m
+[31m-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">[m
+[31m-    <script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>[m
+[31m-    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>[m
+[31m-[m
+[31m-    <!-- Main CSS -->[m
+[31m-    <link rel="stylesheet" href="css/main.css">[m
+[31m-[m
+[31m-    <!-- Title -->[m
+[31m-    <title>About Us</title>[m
+[31m-</head>[m
+[31m-<body>[m
+[31m-    <!-- Navbar -->[m
+[31m-<header>[m
+[31m-       <nav class="navbar navbar-expand-lg navbar-light bg-dark text-light py-3 main-nav">[m
+[31m-          <div class="container">[m
+[31m-            <a class="navbar-brand " href="index.php"><img src="pictures/kahflogo.png" width="105" height="52.5" alt="Kahf Logo"></a>[m
+[31m-              <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-con
