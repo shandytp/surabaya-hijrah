@@ -87,7 +87,6 @@ header .main-nav-scrolled {
   top: 50%;
 }
 
-/* Tulisan di Footer */
 .footer {
   color: rgb(255, 204, 41);
 }
@@ -168,7 +167,7 @@ ul {
   float: left;
   width: 100%;
   background: black;
-  padding: 50px 10px;
+  padding: 30px 10px;
   text-align: center;
   border: 2px solid rgb(255, 204, 41);
   margin: 0 0 28px;
@@ -181,9 +180,9 @@ ul {
   display: inline-block;
   margin-bottom: 15px;
 }
-.our-webcoderskull .cnt-block img {
+.our-webcoderskull .cnt-block {
   width: 150px;
-  /* height: 150px; */
+  height: 150px;
 }
 .our-webcoderskull .cnt-block h3 {
   color: black;

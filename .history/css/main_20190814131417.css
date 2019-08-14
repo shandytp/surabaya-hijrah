@@ -221,6 +221,9 @@ ul {
   color: red;
 }
 
+.fa:unvisited {
+  color: black;
+}
 /* Warna Hover dari Medsos dkk */
 .our-webcoderskull .cnt-block .follow-us li .fa:hover {
   color: gold;

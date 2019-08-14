@@ -26,8 +26,6 @@
 
     <!-- Glider JS -->
     <link rel="stylesheet" href="css/glider.min.css" type="text/css">
-    
-    <!-- Icon-icon -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <!-- Main CSS -->
@@ -57,16 +55,16 @@
                     <a class="nav-link  link-3" href="about.php">About Us</a>
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link link-3" href="ourprogram.php">Our Program</a>
+                    <a class="nav-link link-3" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="gallery.php">Gallery</a>
+                    <a class="nav-link link-3" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="event.php">Event</a>
+                    <a class="nav-link link-3" href="#works">Event</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="blog.php">Blog</a>
+                    <a class="nav-link link-3" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -135,28 +133,27 @@
     </div>
     <ul class="row">
       <li class="col-12 col-md-6 col-lg-3">
-          <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="https://www.reddit.com"
-                        target="_blank"><img src="pictures/PUBG.png" class="img-responsive" alt=""></figure>
-            <h3>Kajian</a></h3>
+          <div class="cnt-block equal-hight" style="height: 349px;">
+            <figure><img src="1.jpg" class="img-responsive" alt=""></figure>
+            <h3><a href="http://www.webcoderskull.com/">Kajian</a></h3>
           </div>
       </li>
       <li class="col-12 col-md-6 col-lg-3">
-          <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="#"><img src="pictures/logo-food-box-putih.png" class="img-responsive" alt=""></figure>
-            <h3>Food Box</a></h3>
+          <div class="cnt-block equal-hight" style="height: 349px;">
+            <figure><img src="1.jpg" class="img-responsive" alt=""></figure>
+            <h3><a href="#">Food Box</a></h3>
           </div>
       </li>
       <li class="col-12 col-md-6 col-lg-3">
-          <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="#"><img src="pictures/logo-rh-putih.png" class="img-responsive" alt=""></figure>
-            <h3>Ruang Harapan</a></h3>
+          <div class="cnt-block equal-hight" style="height: 349px;">
+            <figure><img src="2.jpg" class="img-responsive" alt=""></figure>
+            <h3><a href="http://www.webcoderskull.com/">Ruang Harapan</a></h3>
           </div>
        </li>
       <li class="col-12 col-md-6 col-lg-3">
-          <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="#"><img src="2.jpg" class="img-responsive" alt=""></figure>
-            <h3>Mbois</a></h3>
+          <div class="cnt-block equal-hight" style="height: 349px;">
+            <figure><img src="2.jpg" class="img-responsive" alt=""></figure>
+            <h3><a href="http://www.webcoderskull.com/">Mbois</a></h3>
           </div>
       </li>
     </ul>
@@ -182,37 +179,24 @@
                     <div class="embed-responsive embed-responsive-4by3">
                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6525253721115!2d112.71829691354493!3d-7.2803191735654424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fba2c2498407%3A0xcd27f60f463c0dfd!2sRuang+Harapan-Kahf+Surabaya+Hijrah!5e0!3m2!1sid!2sid!4v1565593698302!5m2!1sid!2sid" width="425" height="350" frameborder="0" style="border:0" allowfullscreen>
                       </iframe>
-                      
                     </div>
-                    <br/>
                     <a href="https://g.page/surabayahijrah?share"
                         target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
                 </div>
-                <!-- Donation -->
                 <div class="col-md-6 col-xs-12">
                   <h2 class="footer">Donation</h2>
-                  <br>
                   <h5>BCA - 1212121</h5>
                 </div>
               </div>
             </div>
-            <!-- Contact Us -->
             <div class="col-md-4 col-sm-4">
               <h2 class="footer">Contact Us</h2>
-              <ul class="follow-us clearfix">
-                  <li><a href="#"><i class="fa fa-envelope" aria-hidden="true" style="font-size:36px"></i>&nbsp;&nbsp;&nbsp;&nbsp;surabayahijrah@kahf.com</a><a href="#"></a></li>
-                  <br>
-                  <li><a href="#"><i class="fa fa-facebook" aria-hidden="true" style="font-size:36px"></i></a></li>
-                  <br>
-                  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true" style="font-size:36px"></i></a></li>
-            </ul>
+              <h5>email</h5>
+              <h5>instagram</h5>
+              <h5>fesbuk</h5>
             </div>
           </div>
         </div>
-
-          <!-- Copyright -->
-        <div class="footer-copyright text-center py-3">© 2019 Copyright: Kahf Surabaya Pemuda Hijrah</div>
-  <!-- Copyright -->
 </footer>
 </body>
 </html>

@@ -1,7 +1,6 @@
 /* Kahf Logo Color : rgb(255, 204, 41) */
 
-/* @import url("https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap"); */
-@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap");
 
 header .main-nav {
   /* coba gawe initial */
@@ -10,12 +9,12 @@ header .main-nav {
   left: 0;
   width: 100%;
   z-index: 1240;
-  font-size: 18px;
+  font-size: 16px;
   text-transform: uppercase;
 }
 /* Body */
 body {
-  font-family: "Nunito", sans-serif;
+  font-family: "Red Hat Display";
   background: black;
   margin: 0;
 }
@@ -87,7 +86,6 @@ header .main-nav-scrolled {
   top: 50%;
 }
 
-/* Tulisan di Footer */
 .footer {
   color: rgb(255, 204, 41);
 }
@@ -99,14 +97,11 @@ header .main-nav-scrolled {
 
 /* Location Marker Logo, Tulisan di Footer */
 .fa-map-marker,
-a {
+a,
+h5 {
   color: rgb(255, 204, 41);
 }
 
-/* Warna Footer */
-h5 {
-  color: white;
-}
 /* MENU PROGRAM KAHF........................................ */
 .row.heading h2 {
   color: rgb(255, 204, 41);
@@ -168,7 +163,8 @@ ul {
   float: left;
   width: 100%;
   background: black;
-  padding: 50px 10px;
+  padding: 20px 10px 50px 10px;
+  /* padding: 10px 10px; */
   text-align: center;
   border: 2px solid rgb(255, 204, 41);
   margin: 0 0 28px;
@@ -182,8 +178,9 @@ ul {
   margin-bottom: 15px;
 }
 .our-webcoderskull .cnt-block img {
-  width: 150px;
-  /* height: 150px; */
+  width: 148px;
+  height: 148px;
+  border-radius: 100%;
 }
 .our-webcoderskull .cnt-block h3 {
   color: black;

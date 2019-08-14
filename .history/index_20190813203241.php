@@ -26,8 +26,6 @@
 
     <!-- Glider JS -->
     <link rel="stylesheet" href="css/glider.min.css" type="text/css">
-    
-    <!-- Icon-icon -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <!-- Main CSS -->
@@ -57,16 +55,16 @@
                     <a class="nav-link  link-3" href="about.php">About Us</a>
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link link-3" href="ourprogram.php">Our Program</a>
+                    <a class="nav-link link-3" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="gallery.php">Gallery</a>
+                    <a class="nav-link link-3" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="event.php">Event</a>
+                    <a class="nav-link link-3" href="#works">Event</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="blog.php">Blog</a>
+                    <a class="nav-link link-3" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -136,8 +134,7 @@
     <ul class="row">
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="https://www.reddit.com"
-                        target="_blank"><img src="pictures/PUBG.png" class="img-responsive" alt=""></figure>
+            <figure><a href="#"><img src="pictures/PUBG.png" class="img-responsive" alt=""></figure>
             <h3>Kajian</a></h3>
           </div>
       </li>
@@ -149,7 +146,7 @@
       </li>
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="#"><img src="pictures/logo-rh-putih.png" class="img-responsive" alt=""></figure>
+            <figure><a href="#"><img src="pictures/logo-rh-putih.png" class="img-responsive" alt="" width="150" height="180"></figure>
             <h3>Ruang Harapan</a></h3>
           </div>
        </li>
@@ -182,13 +179,10 @@
                     <div class="embed-responsive embed-responsive-4by3">
                       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3957.6525253721115!2d112.71829691354493!3d-7.2803191735654424!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7fba2c2498407%3A0xcd27f60f463c0dfd!2sRuang+Harapan-Kahf+Surabaya+Hijrah!5e0!3m2!1sid!2sid!4v1565593698302!5m2!1sid!2sid" width="425" height="350" frameborder="0" style="border:0" allowfullscreen>
                       </iframe>
-                      
                     </div>
-                    <br/>
                     <a href="https://g.page/surabayahijrah?share"
                         target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
                 </div>
-                <!-- Donation -->
                 <div class="col-md-6 col-xs-12">
                   <h2 class="footer">Donation</h2>
                   <br>
@@ -196,15 +190,14 @@
                 </div>
               </div>
             </div>
-            <!-- Contact Us -->
             <div class="col-md-4 col-sm-4">
               <h2 class="footer">Contact Us</h2>
               <ul class="follow-us clearfix">
-                  <li><a href="#"><i class="fa fa-envelope" aria-hidden="true" style="font-size:36px"></i>&nbsp;&nbsp;&nbsp;&nbsp;surabayahijrah@kahf.com</a><a href="#"></a></li>
+                  <li><a href="#"><i class="fa fa-envelope" aria-hidden="true" style="font-size:36px"></i></a><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;surabayahijrah@kahf.com</a></li>
                   <br>
                   <li><a href="#"><i class="fa fa-facebook" aria-hidden="true" style="font-size:36px"></i></a></li>
                   <br>
-                  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true" style="font-size:36px"></i></a></li>
+                  <li><a href="#"><i class="fa fa-instagram" aria-hidden="true" style="font-size:36px padding-left:10px"></i></a><a href="#">&nbsp;&nbsp;&nbsp;&nbsp;@surabayahijrah</a></li>
             </ul>
             </div>
           </div>

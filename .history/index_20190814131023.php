@@ -26,8 +26,6 @@
 
     <!-- Glider JS -->
     <link rel="stylesheet" href="css/glider.min.css" type="text/css">
-    
-    <!-- Icon-icon -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <!-- Main CSS -->
@@ -57,16 +55,16 @@
                     <a class="nav-link  link-3" href="about.php">About Us</a>
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link link-3" href="ourprogram.php">Our Program</a>
+                    <a class="nav-link link-3" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="gallery.php">Gallery</a>
+                    <a class="nav-link link-3" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="event.php">Event</a>
+                    <a class="nav-link link-3" href="#works">Event</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="blog.php">Blog</a>
+                    <a class="nav-link link-3" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>

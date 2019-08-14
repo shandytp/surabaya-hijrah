@@ -26,8 +26,6 @@
 
     <!-- Glider JS -->
     <link rel="stylesheet" href="css/glider.min.css" type="text/css">
-    
-    <!-- Icon-icon -->
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
     
     <!-- Main CSS -->
@@ -57,16 +55,16 @@
                     <a class="nav-link  link-3" href="about.php">About Us</a>
                   </li>
                   <li class="nav-item ">
-                    <a class="nav-link link-3" href="ourprogram.php">Our Program</a>
+                    <a class="nav-link link-3" href="#expertise">Our Program</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="gallery.php">Gallery</a>
+                    <a class="nav-link link-3" href="#team">Gallery</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="event.php">Event</a>
+                    <a class="nav-link link-3" href="#works">Event</a>
                   </li>
                   <li class="nav-item">
-                    <a class="nav-link link-3" href="blog.php">Blog</a>
+                    <a class="nav-link link-3" href="#people-say">Blog</a>
                   </li>
                 </ul>
               </div>
@@ -136,8 +134,7 @@
     <ul class="row">
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="https://www.reddit.com"
-                        target="_blank"><img src="pictures/PUBG.png" class="img-responsive" alt=""></figure>
+            <figure><a href="#"><img src="pictures/PUBG.png" class="img-responsive" alt="" target="_blank"></figure>
             <h3>Kajian</a></h3>
           </div>
       </li>
@@ -149,7 +146,7 @@
       </li>
       <li class="col-12 col-md-6 col-lg-3">
           <div class="cnt-block equal-hight" style="height: 300px;">
-            <figure><a href="#"><img src="pictures/logo-rh-putih.png" class="img-responsive" alt=""></figure>
+            <figure><a href="#"><img src="pictures/logo-rh-putih.png" class="img-responsive" alt="" width="150" height="180"></figure>
             <h3>Ruang Harapan</a></h3>
           </div>
        </li>
@@ -188,7 +185,6 @@
                     <a href="https://g.page/surabayahijrah?share"
                         target="_blank"><i class="fa fa-map-marker" aria-hidden="true"></i> Jl. Jarak No.51, Putat Jaya, Kec. Sawahan, Kota SBY, Jawa Timur 60255</a>
                 </div>
-                <!-- Donation -->
                 <div class="col-md-6 col-xs-12">
                   <h2 class="footer">Donation</h2>
                   <br>
@@ -196,7 +192,6 @@
                 </div>
               </div>
             </div>
-            <!-- Contact Us -->
             <div class="col-md-4 col-sm-4">
               <h2 class="footer">Contact Us</h2>
               <ul class="follow-us clearfix">
