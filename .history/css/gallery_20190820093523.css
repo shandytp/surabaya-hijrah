@@ -1,0 +1,65 @@
+/* Kahf Logo Color : rgb(255, 204, 41) */
+
+/* @import url("https://fonts.googleapis.com/css?family=Red+Hat+Display&display=swap"); */
+@import url("https://fonts.googleapis.com/css?family=Nunito&display=swap");
+
+header .main-nav {
+  /* coba gawe initial */
+  position: initial;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1240;
+  font-size: 18px;
+  text-transform: uppercase;
+}
+/* Body */
+body {
+  font-family: "Nunito", sans-serif;
+  background: black;
+  margin: 0;
+}
+
+/* GALLERY..................................*/
+.gallery-wraper {
+  margin: 30px 0px 50px;
+  color: red !important;
+}
+
+.gallery {
+  /* margin: 10px 50px; */ /*sumber masalah*/
+  padding-left: 80px;
+}
+.gallery img {
+  width: 230px;
+  padding: 10px;
+  transition: 1s;
+}
+
+.gallery img:hover {
+  transform: scale(1.1);
+}
+
+/* NAVBAR......................................*/
+.nav-link.active {
+  color: white;
+}
+.navbar-nav .nav-item .nav-link {
+  color: white;
+}
+/* Navbar versi lama */
+
+.navbar-nav .nav-item.active .nav-link,
+.navbar-nav .nav-item:hover .nav-link {
+  color: rgb(255, 204, 41);
+}
+
+/* Hamburger Menu when Responsive */
+.navbar-toggler {
+  background-color: rgb(255, 204, 41);
+}
+
+/*Navbar Background Color*/
+.bg-dark {
+  background-color: rgb(20, 20, 20) !important;
+}
